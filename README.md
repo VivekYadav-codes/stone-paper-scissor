@@ -19,7 +19,7 @@ A simple, interactive web-based implementation of the classic "Rock Paper Scisso
 * **JavaScript (ES6):** Handled the game logic, random computer choice generation, and DOM manipulation.
 
 ##  Screenshot
-![Smart Calc](game.jpeg.png)
+![Smart Calc](.vscode/game.jpeg.png)
 
 ## 📂 Project Structure
 
