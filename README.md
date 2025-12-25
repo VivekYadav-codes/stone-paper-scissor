@@ -21,6 +21,9 @@ A simple, interactive web-based implementation of the classic "Rock Paper Scisso
 ##  Screenshot
 ![Smart Calc](game.jpeg.png)
 
+## live demo
+![play](https://stone-paper-scissor-gpps.vercel.app/)
+
 ## 📂 Project Structure
 
 ```text
