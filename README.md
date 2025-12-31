@@ -19,10 +19,10 @@ A simple, interactive web-based implementation of the classic "Rock Paper Scisso
 * **JavaScript (ES6):** Handled the game logic, random computer choice generation, and DOM manipulation.
 
 ##  Screenshot
-![Smart Calc](game.jpeg.png)
+![game](game.jpeg.png)
 
 ## live demo
-[View Smart Calc Online](https://stone-paper-scissor-gpps.vercel.app/)
+[View game Online](https://stone-paper-scissor-gpps.vercel.app/)
 
 ## 📂 Project Structure
 
